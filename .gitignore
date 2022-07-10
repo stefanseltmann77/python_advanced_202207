@@ -1,0 +1,4 @@
+.venv
+*.lock
+.idea
+*_cache
